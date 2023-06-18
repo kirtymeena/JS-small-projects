@@ -1,0 +1,19 @@
+:root {
+  --light-grey: #f0f0f0;
+  --grey: #716f6f;
+  --white: #ffffff;
+  --black: #151515;
+  --purple: #854dff;
+  --ff: "Poppins", sans-serif;
+  --red: #ff5959;
+
+  --fs-sm: 12px;
+  --fs-14: 14px;
+  --fs-lg: 20px;
+  --fs-md: 14px;
+
+  --line-height-sm: 18px;
+  --line-height-lg: 21px;
+  --letter-spacing: 0.25em;
+  --fw: 700;
+}
