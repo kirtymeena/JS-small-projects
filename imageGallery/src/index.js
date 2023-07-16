@@ -93,7 +93,9 @@ import { faker } from '@faker-js/faker';
             console.log(e.target)
             overlay.style.backgroundColor = "white";
             overlay.style.opacity = "1";
-            modalContainer.style.display = "none"
+            modalContainer.style.display = "none";
+            selectedId = ''
+
 
         })
 
