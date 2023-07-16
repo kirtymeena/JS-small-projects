@@ -1,15 +1,12 @@
 {
-  "name": "todo",
+  "name": "rating",
   "version": "1.0.0",
   "description": "",
-  "private": true,
+  "main": "webpack.config.js",
   "scripts": {
     "build": "webpack",
     "dev": "webpack serve --mode development --env development"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.22.5",
     "@babel/preset-env": "^7.22.5",
@@ -21,7 +18,7 @@
     "webpack-cli": "^5.1.4",
     "webpack-dev-server": "^4.15.1"
   },
-  "dependencies": {
-    "lodash": "^4.17.21"
-  }
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
